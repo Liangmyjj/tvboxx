@@ -1,0 +1,15 @@
+{
+"请求头":"手机",
+"数组":"class=\"stui-vodlist__box stui-vodlist__bg\"&&</div>",
+"副标题":"class=\"pic-text text-right\"&&</span>",
+"图片":"data-original=\"&&\"",
+"链接":"href=\"&&\"",
+"标题":"title=\"&&\"",
+
+"线路数组":"class=\"stui-pannel__head bottom-line active clearfix\"&&</div>",
+"线路标题":"class=\"title\">&&</h3>",
+"播放数组":"<ul class=\"stui-content__playlist clearfix\">&&</ul>",
+"分类":"电视剧&电影&综艺&动漫",
+"分类值":"2&1&3&4",
+"分类url":"https://www.ikandy2.fun/vodshow/{cateId}-{area}-------{catePg}---{year}/"   
+    }
