@@ -24,7 +24,8 @@
         }
     ],
     "sites": [
-        {"key":"csp_Ikanbot","name": "👾┃Ikan┃bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
+        {"key":"drpy_js_360官源","name":"🐮┃三三┃解析","type":3,"playerType":2,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/360官源.js"},
+	{"key":"csp_Ikanbot","name": "👾┃Ikan┃bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_JianPian","name":"🔨┃荐片┃资源","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
         {"key":"Gitcafe","name":"📀┃纸条┃搜索","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
         {"key":"csp_AliPS","name":"📀┃喵狸┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
@@ -138,7 +139,7 @@
             "jar":"./jar/HeChengChaXiu.jar"
         },
 
-        {"key":"drpy_js_360官源","name":"🐮┃三三┃解析","type":3,"playerType":2,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/360官源.js"},
+        
         {"key":"drpy_js_百忙无果","name":"🥭┃芒果┃解析","type":3,"playerType":2,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/百忙无果.js"},
         {"key":"drpy_js_奇珍异兽","name":"🥝┃奇异┃解析","type":3,"playerType":2,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/奇珍异兽.js"},
         {"key":"drpy_js_腾云驾雾","name":"🐧┃企鹅┃解析","type":3,"playerType":2,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/腾云驾雾.js"},
