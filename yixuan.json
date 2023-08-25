@@ -57,7 +57,7 @@
       "jar": "./jar/fan0813.jar"
     },
 {"key": "csp_XYQHiker_四零","name":"🚜┃四零┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/四零影吧.json"}, 
-{"key":"zh","name":"qiqiyumi","type":1,"api":"http://qq.xzam.cn:66/api.php/provide/vod/","playUrl": "json:http://www.d18.icu/api/?key=Ur3JoCvLzhWT0YaVYK&url="}
+{"key":"zh","name":"qiqiyumi","type":1,"api":"http://qq.xzam.cn:66/api.php/provide/vod/","playUrl": "json:http://www.d18.icu/api/?key=Ur3JoCvLzhWT0YaVYK&url="}, 
 {"key": "csp_AppYs_A8","name": "A8┃影视","type": 3, "api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod" },	    
 	    {
             "key": "365",
