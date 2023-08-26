@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://xhww.fun:63/img.php",
-    "spider": "https://raw.githubusercontent.com/Liangmyjj/tvboxx/main/custom_spider.jar",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Liangmyjj/tvboxx/main/custom_spider.jar",
     "lives": [
         {
             "name": "直播",
