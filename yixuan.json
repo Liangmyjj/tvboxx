@@ -235,8 +235,6 @@
         {"name":"初恋","type":1,"url":"http://125.77.172.239:8090//api/?key=bRXlQMw20Cc3rqGbUe&url="},
         {"name":"xdy","type":1,"url":"https://api.xdys.vip/webapi/xdys.php?url="},
         {"name":"小书","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent": "okhttp/3.12.0","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒","CL4K","renrenmi","ltnb","bilibili","BAGY","SLYS4K","DM-FT1","DM-FT3","bilibili","1905","xigua"]}},
-        {"name": "华影视VIP2","type": 0,"url": "https://svip.ikumiao.icu/dm/?uid=4292751&key=dikpqruyBHLNQW0346&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent": "Lavf/58.12.100"}}},
-	{"name":"bozrc","url":"https://jx.bozrc.com:4433/player/?url=", "showType":1},    
         {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
         {"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url=","header":{"User-Agent":"Mozilla/5.0"}},
         {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
