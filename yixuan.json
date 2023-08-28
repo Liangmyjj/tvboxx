@@ -24,6 +24,10 @@
         }
     ],
     "sites": [
+        {"key":"腾讯","name":"🎅🏻 | 少儿频道1","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/腾讯.js"},
+        {"key":"芒果","name":"👼🏻 | 少儿频道2","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/忙果.js"},
+        {"key":"奇艺","name":"🧚 | 少儿频道3","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/异兽.js"},
+        {"key":"优酷","name":"🧜‍| 少儿频道4","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/优酷.js"},
         {"key":"drpy_js_360官源","name":"🐮┃三三┃解析","type":3,"playerType":2,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/360官源.js"},
 	{"key":"csp_Ikanbot","name": "👾┃Ikan┃bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_JianPian","name":"🔨┃荐片┃资源","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -231,7 +235,8 @@
         {"name":"初恋","type":1,"url":"http://125.77.172.239:8090//api/?key=bRXlQMw20Cc3rqGbUe&url="},
         {"name":"xdy","type":1,"url":"https://api.xdys.vip/webapi/xdys.php?url="},
         {"name":"小书","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent": "okhttp/3.12.0","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒","CL4K","renrenmi","ltnb","bilibili","BAGY","SLYS4K","DM-FT1","DM-FT3","bilibili","1905","xigua"]}},
-        {"name":"bozrc","url":"https://jx.bozrc.com:4433/player/?url=", "showType":1},    
+        {"name": "华影视VIP2","type": 0,"url": "https://svip.ikumiao.icu/dm/?uid=4292751&key=dikpqruyBHLNQW0346&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent": "Lavf/58.12.100"}}},
+	{"name":"bozrc","url":"https://jx.bozrc.com:4433/player/?url=", "showType":1},    
         {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
         {"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url=","header":{"User-Agent":"Mozilla/5.0"}},
         {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
