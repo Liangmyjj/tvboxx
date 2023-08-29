@@ -6,7 +6,7 @@
             "name": "直播",
             "type": 0,
             "playerType": 1,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Liangmyjj/tvboxx/main/%E6%B5%B7%E7%87%95.txt",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Liangmyjj/tvboxx/main/%E7%99%BE%E4%BA%8B%E5%8F%AF%E4%B9%90.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -37,6 +37,7 @@
 {"key": "drpy_玉米","name": "🌽┃玉米┃影视","type": 3,"api": "./drpy_js/libs/drpy2.min.js", "playerType":2, "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./drpy_js/js/玉米影视.js"},
 {"key": "csp_AppYs_A8","name": "🚈┃A8┃影视","type": 3, "api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod" },
 {"key": "csp_XYQHiker_子子影视","name":"👶🏻┃子子┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/子子影视.json"},
+{"key": "csp_Mayiys_忍者","name":"💟┃忍者┃影视","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc","jar":"https://cloud.lxweb.cn/f/LXVCD/qji0804.jar"},
 	    {
             "key": "365",
             "name": "👹┃365┃影视",
@@ -113,9 +114,7 @@
             "filterable": 1,
             "ext":"./json/莱米.json",
             "jar":"./jar/HeChengChaXiu.jar"
-        },
-
-        
+        },        
         {"key":"drpy_js_百忙无果","name":"🥭┃芒果┃解析","type":3,"playerType":2,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/百忙无果.js"},
         {"key":"drpy_js_奇珍异兽","name":"🥝┃奇异┃解析","type":3,"playerType":2,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/奇珍异兽.js"},
         {"key":"drpy_js_腾云驾雾","name":"🐧┃企鹅┃解析","type":3,"playerType":2,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/腾云驾雾.js"},
