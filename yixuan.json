@@ -25,10 +25,7 @@
         }
     ],
     "sites": [
-        {"key":"腾讯","name":"🎅🏻 | 企鹅少儿","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/腾讯.js"},
-        {"key":"芒果","name":"👼🏻 | 盲果少儿","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/忙果.js"},
-        {"key":"奇艺","name":"🧚 | 其艺少儿","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/异兽.js"},
-        {"key":"优酷","name":"🧜‍| 有库少儿","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/优酷.js"},
+     
         {"key":"drpy_js_360官源","name":"🐮┃三三┃解析","type":3,"playerType":2,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/360官源.js"},
 	{"key":"csp_Ikanbot","name": "👾┃Ikan┃bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_JianPian","name":"🔨┃荐片┃资源","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
