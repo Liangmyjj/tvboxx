@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://xhww.fun:63/img.php",
-    "spider": "https://jihulab.com/Liangmyjj/tvboxx/-/blob/3a02f9d39efe20f5019fd0a9301c1fa2ded59ad5/jar/%E5%B0%8F%E7%B1%B35.jar",
+    "spider": "./custom_spider.jar",
     "lives": [
         {
             "name": "直播",
