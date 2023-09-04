@@ -34,7 +34,7 @@
         {"key": "csp_XYQHiker_盘搜索","name":"📀┃盘se┃搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盘搜索.json"},
         {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀┃玩偶┃哥哥","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},      
 {"key": "csp_XYQHiker_四零","name":"🚜┃四零┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/四零影吧.json"}, 
-{"key": "drpy_玉米","name": "🌽┃玉米┃影视","type": 3,"api": "./drpy_js/libs/drpy2.min.js", "playerType":2, "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./drpy_js/js/玉米影视.js"},
+
 {"key": "csp_AppYs_A8","name": "🚈┃A8┃影视","type": 3, "api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod" },
 {"key": "csp_XYQHiker_子子影视","name":"👶🏻┃子子┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/子子影视.json"},
 	    {
@@ -207,7 +207,7 @@
     ],
     "parses": [
         //{"name":"Web聚合","type":3,"url":"Web"},
-        {"name":"小鱼","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=248892&key=cdhjnrstvEMNPQUXZ1&url="},
+        {"name":"小鱼","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=248892&key=bcgjlmqtAJORSU0249&url="},
         {"name":"小城","type":1,"url":"http://139.159.239.156:88/api/json.php/?key=B6dbVYOGECHOaDRwbO&url="},
         {"name":"255","type":1,"url":"https://jx.255tv.tk/api/?key=5QKweBqiUNp8FCg2Ap&url="},
         {"name": "2384","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
