@@ -153,6 +153,29 @@
             "filterable": 1,
             "jar": "./jar/饭922.jar"
         },
+        
+    {
+        "key": "drpy_抖音追忆",
+        "name": "🎧┃抖音┃追忆",
+        "type": 3,
+        "api": "./drpy_js/libs/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./drpy_js/js/新追忆.js"
+    },
+    {
+        "key": "csp_XBPQ_猫放",
+        "name": "🌟┃猫放┃时光",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "./jar/小米5.jar",
+        "ext": "./json/猫放时光.json"
+    },
+
         {
             "key": "yqkan_open",
             "name": "🌈┃一起｜影视",
@@ -290,7 +313,6 @@
             "changeable": 1,
             "jar": "./jar/hccx.jar"
        },
-   [
     {
         "key": "drpy_js_搜小狗狗",
         "name": "🐼┃搜狗┃解析",
@@ -320,8 +342,7 @@
         "type": 3,
         "api": "./drpy_js/libs/drpy2.min.js",
         "ext": "./drpy_js/js/南瓜影视.js"
-    }
-]
+    },
         {
             "key": "Czsapp",
             "name": "📔┃厂长┃直连",
