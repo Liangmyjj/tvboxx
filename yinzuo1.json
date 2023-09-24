@@ -305,7 +305,7 @@
         },
         {
             "key": "优酷",
-            "name": "🅱┃优酷┃解析",
+            "name": "🧂┃优酷┃解析",
             "type": 3,
             "api": "csp_YOUKU",
             "searchable": 1,
@@ -320,14 +320,6 @@
         "playerType": 2,
         "api": "./drpy_js/libs/drpy2.min.js",
         "ext": "./drpy_js/js/菜狗.js"
-    },
-    {
-        "key": "drpy_js_优酷很酷",
-        "name": "🧂┃优酷┃解析",
-        "type": 3,
-        "playerType": 2,
-        "api": "./drpy_js/libs/drpy2.min.js",
-        "ext": "./drpy_js/js/优酷.js"
     },
     {
         "key": "drpy_js_007",
