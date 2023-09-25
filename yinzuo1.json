@@ -554,6 +554,17 @@
             "url": "Web"
         },
         {
+            "name": "1080",
+            "type": 1,
+            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/3.12.11"
+                }
+            }
+        },
+        {"name":"追忆","type":1,"url":"http://115.231.220.36:9999/jx/tvbox/zyys.php?url="},
+        {
             "name": "亦璇",
             "type": 1,
             "url": "http://chunjie.link:45256/TY/XKT4.php?url="
