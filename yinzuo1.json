@@ -35,6 +35,17 @@
             "ext": "./py/py_cctv_1.py"
         },
         {
+            "key": "push_agent",
+            "name": "📽┃推推┃送送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./alitoken.txt"
+        },
+        {
             "key": "csp_Ikanbot",
             "name": "👾┃Ikan┃bot",
             "type": 3,
